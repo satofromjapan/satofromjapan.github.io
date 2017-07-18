@@ -1,6 +1,6 @@
 #profile {
   max-width: 30%;
-  border: 5px solid #e57373;
+  border: 5px solid #00897b;
 }
 
 .brand-logo{
@@ -9,4 +9,8 @@
 
 #head {
   /*background-image: url(../images/background.jpg);*/
+}
+
+.parallax-container {
+  height: 200px;
 }
